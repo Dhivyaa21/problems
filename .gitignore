@@ -1,0 +1,13 @@
+# IDEA
+.idea/
+
+#GRADLE
+.gradle/
+build/
+gradle/
+out/
+gradlew
+gradlew.bat
+
+#class files
+*.class
